@@ -5,7 +5,7 @@
     Enumerating all installed .NET Framework and .NET Core versions
     As a bonus, it also checks if PowerShell Core is installed
 .EXAMPLE
-   .\Get-NetVersions.ps1
+   .\Get-NetPS.ps1
 .NOTES
    Author: Bastiaan Bakker (bastiaan@oranjeit.nl / info@sysups.nl)
    Version history:
