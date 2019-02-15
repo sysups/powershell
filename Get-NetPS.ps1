@@ -1,9 +1,12 @@
 <#
 .Synopsis
-    Enumerating all installed .NET Framework and .NET Core versions
+    Enumerating all installed versions .NET and PowerShell
 .DESCRIPTION
-    Enumerating all installed .NET Framework and .NET Core versions
-    As a bonus, it also checks if PowerShell Core is installed
+    Enumerating all installed versions .NET and PowerShell
+    * .NET Framework
+    * .NEt Core
+    * PowerShell Classic
+    * PowerShell Core
 .EXAMPLE
    .\Get-NetPS.ps1
 .NOTES
