@@ -7,7 +7,7 @@
 .EXAMPLE
    .\Get-NetVersions.ps1
 .NOTES
-   Author: Bastiaan Bakker
+   Author: Bastiaan Bakker (bastiaan@oranjeit.nl / info@sysups.nl)
    Version history:
      14-02-2019 - Bastiaan Bakker - Initial version
      15-02-2019 - Bastiaan Bakker - Added displaying powershell classic
